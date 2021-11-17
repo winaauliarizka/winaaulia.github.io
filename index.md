@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##  Wina Aulia Rizka
 
 You can use the [editor on GitHub](https://github.com/winaauliarizka/winaaulia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
